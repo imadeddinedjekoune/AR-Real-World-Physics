@@ -3,7 +3,7 @@
 This project combines OpenCV and Unity to create a real-time interactive environment where objects detected by the camera's webcam using OpenCV are transformed into colliders in Unity.
 
 ## Demo 
-[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270512112-b4821f0a-ab28-4489-9d69-fd5b792d2e9d.PNG)](https://www.youtube.com/watch?v=gEnqBC4i7NE)
+[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270513617-640b31d3-85f2-4ffc-8239-2bd92b48e6b9.gif)](https://www.youtube.com/watch?v=gEnqBC4i7NE)
 
 ## Table of Contents
 
